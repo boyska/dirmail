@@ -1,0 +1,6 @@
+DirMail
+=======
+
+A tiny script to send mail whenever a new file is created inside a directory.
+
+It can be coupled with simple scripts that populate a directory, or with a DirSet (see https://github.com/boyska/missedcalls for an example)
